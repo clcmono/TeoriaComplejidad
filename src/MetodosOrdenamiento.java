@@ -17,6 +17,7 @@ public class MetodosOrdenamiento {
                 }
             }
         }
+        // System.out.println("Insertior " + java.util.Arrays.toString(arreglo));
         return arreglo;
     }
     
